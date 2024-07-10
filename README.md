@@ -10,7 +10,7 @@ Priscilla Benevides - priscilla.benevides@edu.ufes.br
 <!-- <a href="https://scholar.google.com/citations?user=pCY-bikAAAAJ&hl=zh-CN">Jinwei Yuan</a> -->
 <div><a href="https://github.com/intel-comp-saude-ufes/2024-2-P2-Eye_disease_classification_compare_models/blob/main/Projeto_2_Eye_disease_classification_compare_models_v1_pdf.pdf"> Artigo </a> </div> 
 
-<div><a href="https://youtu.be/u0VNPSf90hY"> Video de Apresentação </a> </div> 
+<div><a href="https://youtu.be/RABGeMo2Ygk"> Video de Apresentação </a> </div> 
 
 </div>
 
